@@ -20,7 +20,7 @@ Admin:
 ![Screenshot 2024-11-14 211929](https://github.com/user-attachments/assets/5849c526-57fe-4ab2-89e3-a29948897335)
 ![Screenshot 2024-11-14 211946](https://github.com/user-attachments/assets/c60405f0-6390-4d90-8a3b-ef1683382c8d)
 ![Screenshot 2024-11-14 212755](https://github.com/user-attachments/assets/3e1d9ce5-083c-425d-b7bd-1ac6baef1931)
-![Screenshot 2024-11-14 212755](https://github.com/user-attachments/assets/3fbcdd91-0457-427a-af1f-20db5db73360)
+
 
 
 
